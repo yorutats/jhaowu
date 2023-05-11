@@ -7,6 +7,10 @@ const NavbarBg = styled.div`
   right: 0;
   top: 0;
 
+<<<<<<< HEAD
+=======
+  z-index: 4;
+>>>>>>> 8832103 (V1)
   nav {
     background-color: #0000;
     opacity: 1;
@@ -23,9 +27,23 @@ const NavbarBg = styled.div`
       background-color: rgba(0, 0, 0, 0.6);
     }
     .navbar-left {
+<<<<<<< HEAD
         float: left;
       }
       
+=======
+      float: left;
+    }
+    @media only screen and (max-width: 768px) {
+      position: fixed;
+      right: 0;
+      top: 0;
+      background-color: #272727;
+      width: 100%;
+      
+      
+    }
+>>>>>>> 8832103 (V1)
   }
 `;
 
@@ -33,7 +51,18 @@ const LogoImg = styled.img`
   position: fixed;
   top: 10px;
   left: 20px;
+<<<<<<< HEAD
   height: 5vh;
+=======
+  width: 10%; /* 設定寬度為容器寬度的 100% */
+  height: auto;
+  @media only screen and (max-width: 768px) {
+    position: absolute;
+     top: 20px;
+    left: 20px;
+    
+  }
+>>>>>>> 8832103 (V1)
 `;
 
 function Navbar() {
@@ -77,7 +106,10 @@ function Navbar() {
               </li>
             </ul>
 
+<<<<<<< HEAD
     
+=======
+>>>>>>> 8832103 (V1)
             <form class="navbar-form navbar-right" role="search">
               <div class="form-group">
                 <input

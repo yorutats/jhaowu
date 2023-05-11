@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 <svg width="1500" height="1007" viewBox="0 0 1500 1007" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <rect width="1500" height="760" transform="matrix(-1 0 0 1 1500 0)" fill="url(#pattern0)"/>
 <rect x="71" y="162" width="200" height="355" fill="url(#pattern1)"/>
 <rect y="760" width="1500" height="247" fill="#FEF7DD"/>
 <rect x="85" y="828" width="1330" height="111" fill="url(#pattern2)"/>
+=======
+<svg width="1500" height="921" viewBox="0 0 1500 921" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="1500" height="760" transform="matrix(-1 0 0 1 1500 0)" fill="url(#pattern0)"/>
+<rect x="71" y="162" width="200" height="355" fill="url(#pattern1)"/>
+<rect y="674" width="1500" height="247" fill="#FEF7DD"/>
+<rect x="85" y="742" width="1330" height="111" fill="url(#pattern2)"/>
+>>>>>>> 8832103 (V1)
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_211_27" transform="matrix(0.00078125 0 0 0.00154194 2.65839e-10 -0.05)"/>

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jhaowu/static/css/main.131a8d9d.css",
-    "main.js": "/jhaowu/static/js/main.27ce5875.js",
+    "main.css": "/jhaowu/static/css/main.c4ba753e.css",
+    "main.js": "/jhaowu/static/js/main.cd2efb39.js",
     "static/js/787.32d91862.chunk.js": "/jhaowu/static/js/787.32d91862.chunk.js",
     "static/media/associate.svg": "/jhaowu/static/media/associate.28008d1f893e6924434268ef409fc53b.svg",
     "static/media/main_header.svg": "/jhaowu/static/media/main_header.2b2a1490491224cfd2145151c919f155.svg",
@@ -10,12 +10,12 @@
     "static/media/purchase_img.png": "/jhaowu/static/media/purchase_img.27158f0c7c8a6fa53540.png",
     "static/media/footer.svg": "/jhaowu/static/media/footer.9df96e251961dd94052578d4ad3589e7.svg",
     "index.html": "/jhaowu/index.html",
-    "main.131a8d9d.css.map": "/jhaowu/static/css/main.131a8d9d.css.map",
-    "main.27ce5875.js.map": "/jhaowu/static/js/main.27ce5875.js.map",
+    "main.c4ba753e.css.map": "/jhaowu/static/css/main.c4ba753e.css.map",
+    "main.cd2efb39.js.map": "/jhaowu/static/js/main.cd2efb39.js.map",
     "787.32d91862.chunk.js.map": "/jhaowu/static/js/787.32d91862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.131a8d9d.css",
-    "static/js/main.27ce5875.js"
+    "static/css/main.c4ba753e.css",
+    "static/js/main.cd2efb39.js"
   ]
 }

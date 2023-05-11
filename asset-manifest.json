@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jhaowu/static/css/main.c4ba753e.css",
-    "main.js": "/jhaowu/static/js/main.cd2efb39.js",
+    "main.css": "/jhaowu/static/css/main.b38705d3.css",
+    "main.js": "/jhaowu/static/js/main.7e07cf4c.js",
     "static/js/787.32d91862.chunk.js": "/jhaowu/static/js/787.32d91862.chunk.js",
     "static/media/associate.svg": "/jhaowu/static/media/associate.28008d1f893e6924434268ef409fc53b.svg",
-    "static/media/main_header.svg": "/jhaowu/static/media/main_header.2b2a1490491224cfd2145151c919f155.svg",
+    "static/media/main_header.svg": "/jhaowu/static/media/main_header.a2018ea18d5d4c4e0db0587214a2e17e.svg",
     "static/media/entrusted_img.png": "/jhaowu/static/media/entrusted_img.b8ff93ca133c31cd91a7.png",
     "static/media/artist_info.png": "/jhaowu/static/media/artist_info.2eba88abc61225b144f4.png",
     "static/media/purchase_img.png": "/jhaowu/static/media/purchase_img.27158f0c7c8a6fa53540.png",
     "static/media/footer.svg": "/jhaowu/static/media/footer.9df96e251961dd94052578d4ad3589e7.svg",
     "index.html": "/jhaowu/index.html",
-    "main.c4ba753e.css.map": "/jhaowu/static/css/main.c4ba753e.css.map",
-    "main.cd2efb39.js.map": "/jhaowu/static/js/main.cd2efb39.js.map",
+    "main.b38705d3.css.map": "/jhaowu/static/css/main.b38705d3.css.map",
+    "main.7e07cf4c.js.map": "/jhaowu/static/js/main.7e07cf4c.js.map",
     "787.32d91862.chunk.js.map": "/jhaowu/static/js/787.32d91862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4ba753e.css",
-    "static/js/main.cd2efb39.js"
+    "static/css/main.b38705d3.css",
+    "static/js/main.7e07cf4c.js"
   ]
 }

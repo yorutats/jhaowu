@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jhaowu/static/css/main.2cab6fe0.css",
-    "main.js": "/jhaowu/static/js/main.0547821a.js",
+    "main.js": "/jhaowu/static/js/main.886a44be.js",
     "static/js/787.32d91862.chunk.js": "/jhaowu/static/js/787.32d91862.chunk.js",
     "static/media/associate.svg": "/jhaowu/static/media/associate.89cb651700b8c6d4d4984b48a820f86c.svg",
     "static/media/header.svg": "/jhaowu/static/media/header.a2018ea18d5d4c4e0db0587214a2e17e.svg",
@@ -18,11 +18,11 @@
     "static/media/Ellipse1.png": "/jhaowu/static/media/Ellipse1.2a8c07aa77998f771b2c.png",
     "index.html": "/jhaowu/index.html",
     "main.2cab6fe0.css.map": "/jhaowu/static/css/main.2cab6fe0.css.map",
-    "main.0547821a.js.map": "/jhaowu/static/js/main.0547821a.js.map",
+    "main.886a44be.js.map": "/jhaowu/static/js/main.886a44be.js.map",
     "787.32d91862.chunk.js.map": "/jhaowu/static/js/787.32d91862.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2cab6fe0.css",
-    "static/js/main.0547821a.js"
+    "static/js/main.886a44be.js"
   ]
 }

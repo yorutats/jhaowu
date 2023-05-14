@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/jhaowu/static/css/main.2cab6fe0.css",
+    "main.js": "/jhaowu/static/js/main.0547821a.js",
+    "static/js/787.32d91862.chunk.js": "/jhaowu/static/js/787.32d91862.chunk.js",
+    "static/media/associate.svg": "/jhaowu/static/media/associate.89cb651700b8c6d4d4984b48a820f86c.svg",
+    "static/media/header.svg": "/jhaowu/static/media/header.a2018ea18d5d4c4e0db0587214a2e17e.svg",
+    "static/media/entrusted_img.png": "/jhaowu/static/media/entrusted_img.b8ff93ca133c31cd91a7.png",
+    "static/media/artist_info.png": "/jhaowu/static/media/artist_info.2eba88abc61225b144f4.png",
+    "static/media/purchase_img.png": "/jhaowu/static/media/purchase_img.27158f0c7c8a6fa53540.png",
+    "static/media/Ellipse5.png": "/jhaowu/static/media/Ellipse5.2b2883ffa00f16e54e58.png",
+    "static/media/Ellipse4.png": "/jhaowu/static/media/Ellipse4.332c754ce4c97ac82c19.png",
+    "static/media/Ellipse7.png": "/jhaowu/static/media/Ellipse7.d1061122ac87cac8616c.png",
+    "static/media/Ellipse8.png": "/jhaowu/static/media/Ellipse8.b6574e870016581400af.png",
+    "static/media/Ellipse3.png": "/jhaowu/static/media/Ellipse3.669637693b0f7e086b55.png",
+    "static/media/Ellipse6.png": "/jhaowu/static/media/Ellipse6.b35e1226f012d1205e02.png",
+    "static/media/Ellipse2.png": "/jhaowu/static/media/Ellipse2.00c5f97fa6ae5ca17ebe.png",
+    "static/media/Ellipse1.png": "/jhaowu/static/media/Ellipse1.2a8c07aa77998f771b2c.png",
+    "index.html": "/jhaowu/index.html",
+    "main.2cab6fe0.css.map": "/jhaowu/static/css/main.2cab6fe0.css.map",
+    "main.0547821a.js.map": "/jhaowu/static/js/main.0547821a.js.map",
+    "787.32d91862.chunk.js.map": "/jhaowu/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cab6fe0.css",
+    "static/js/main.0547821a.js"
+  ]
+}

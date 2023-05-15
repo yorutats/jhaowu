@@ -1,0 +1,11 @@
+5/13
+檔案位置調整
+app.js完成 後續對應位置調整navbar app.js及可
+navbar 的css暫不調整
+
+5/14
+首頁分割Component
+image圖片修改
+新增image/associate
+Home.css修改
+artists圖片另單獨存為artists.js(src/artists)
